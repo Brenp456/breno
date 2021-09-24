@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=" https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="ESPORTES", PREMIERE
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJO7Pc9yNP7MgtzEXqsZIexgS3x8SXOQOuTA&usqp=CAU" group-title="ESPORTES", PREMIERE
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTES", FOX SPORT
