@@ -9,6 +9,6 @@ https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToKRVupcvrsjxCGzC59-mkX-y9D7LrjxslYg&usqp=CAU" group-title="ESPORTES", SPORT TV 
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINFO:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo-4.png"
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo-4.png"
 group-title="ESPORTES", ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
