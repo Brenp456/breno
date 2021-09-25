@@ -14,4 +14,4 @@ group-title="ESPORTES", ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV ABERTA", GLOBO
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
