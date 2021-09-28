@@ -17,4 +17,4 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2u5gNibHrlCwIiZ_vcsBX63Q-PPiPe8KNNg&usqp=CAU" group-title="TV ABERTA", SBT
-https://dtv-latam-jbc.akamaized.net/dash/live/2022505/dtv/sbt/1632273205/720p-30fps-3500k-85755.mp4
+https://m.youtube.com/watch?v=ABVQXgr2LW4&feature=emb_logo
