@@ -17,4 +17,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2u5gNibHrlCwIiZ_vcsBX63Q-PPiPe8KNNg&usqp=CAU" group-title="TV ABERTA", SBT
-https://5a1c76baf08c0.streamlock.net/sbtinterior/9orLt4JWJdBVRt1pHmq4o8RfAahQIKws/chunklist_w360502954.m3u8
+https://5a1c76baf08c0.streamlock.net/sbtinterior/9orLt4JWJdBVRt1pHmq4o8RfAahQIKws/chunklist_w360502954.m3u8 
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES", CONMENBOL TV🤢
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
