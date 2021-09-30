@@ -17,7 +17,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2u5gNibHrlCwIiZ_vcsBX63Q-PPiPe8KNNg&usqp=CAU" group-title="TV ABERTA", SBT
-https://5a1c76baf08c0.streamlock.net/sbtinterior/9orLt4JWJdBVRt1pHmq4o8RfAahQIKws/chunklist_w360502954.m3u8 
+https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1632964501&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&nielsen=1&iph=d9269ab9925bc3f7abedd04389ae72e0ecc2d23d7487fb1d63834d1ea5586995&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=5bd0a6fbef004962685ec9c1ce6541af2da8f3602defc40cb107503858b0820c&pbs=4e219ddc460641eab303b6b18afa288f 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES", CONMENBOL TV🤢
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
