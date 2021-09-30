@@ -1,1 +1,1 @@
-http://163.172.103.202:8880//get.php?username=287994003748&password=287994003748&type=m3u
+http://xcui.vitvabc.xyz:8880//get.php?username=2879940036fe&password=2879940036fe&type=m3u
